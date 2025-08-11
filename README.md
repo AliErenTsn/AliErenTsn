@@ -1,14 +1,12 @@
 <h2 align="center">Hi 👋, I'm Ali Eren</h2>
 <h2 align="center">A software development student from Istanbul.</h2>
 
----
 
 <!-- Profil başına GIF -->
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2txdnYzbnUzeDN2cmViejV3OGg4NDJhMGNrbHVvc2ZjbWJ5bmh4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cd7Y7tJ4pHbGM/giphy.gif" width="300">
 </p>
 
----
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
